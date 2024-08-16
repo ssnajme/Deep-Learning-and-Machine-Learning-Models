@@ -1,5 +1,3 @@
-## Machine Learning Pipelines 
-
 ### Overview
 This repository contains a collection of projects developed using Jupyter Notebooks, focusing on testing various machine learning pipelines and neural network models. Some projects also involve a statistical machine learning approach, showcasing the versatility and depth of the analyses conducted.
 
